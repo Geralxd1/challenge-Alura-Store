@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7c190bf8-911e-4f30-81d5-6b656ef3a2aa)# 📊 Análisis de Datos – Evaluación de Tienda para Cierre
+# 📊 Análisis de Datos – Evaluación de Tienda para Cierre
 
 Este proyecto tiene como objetivo analizar el desempeño de distintas tiendas a partir de datos de ventas, ingresos, calificaciones y rendimiento de empleados, con el fin de tomar decisiones estratégicas. En este caso particular, se evalúa la posibilidad de **cerrar la tienda 4** y reubicar sus recursos eficientemente.
 
